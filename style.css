@@ -1,0 +1,25 @@
+.count{
+    font-size: 75px;
+    padding-left: 25%;
+    padding-top: 5px;
+    border-color: red;
+    border-radius: 70px;
+    font-family: 'Sometype Mono', monospace;
+    color: greenyellow;
+}
+body{
+    background-size: cover;
+    background-color: #659dcb;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(jawad-jawahir-CRtOF-CojHI-unsplash.jpg);
+}
+
+.Ramadan{
+       
+   padding-left: 29%;
+   padding-top: 100px;
+   font-size: 70px;
+   font-family: 'Sometype Mono', monospace;
+   color: goldenrod; 
+}
